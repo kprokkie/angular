@@ -18,3 +18,9 @@ Repositories:
 https://cli.angular.io/
 
 https://github.com/angular/angular-cli
+
+```
+Angular NgRx
+```
+
+https://github.com/DeborahK/Angular-NgRx-GettingStarted
